@@ -1,5 +1,5 @@
 /*
- * The purpose of this program is to demenstrate algorthims that manipulate bit patterns of unsigned 
+ * The purpose of this program is to demonstrate algorthims that manipulate bit patterns of unsigned 
  * and character values.
  * Coded by Ragu S.
  * For: OOP344 Fall 2013
